@@ -1,0 +1,11 @@
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WFSqlCsEx1\bin\Debug\WFSqlCsEx1.exe.config
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WFSqlCsEx1\bin\Debug\WFSqlCsEx1.exe
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WFSqlCsEx1\bin\Debug\WFSqlCsEx1.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WFSqlCsEx1\obj\Debug\WFSqlCsEx1.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WFSqlCsEx1\obj\Debug\WFSqlCsEx1.csproj.SuggestedBindingRedirects.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WFSqlCsEx1\obj\Debug\WFSqlCsEx1.Form1.resources
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WFSqlCsEx1\obj\Debug\WFSqlCsEx1.Properties.Resources.resources
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WFSqlCsEx1\obj\Debug\WFSqlCsEx1.csproj.GenerateResource.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WFSqlCsEx1\obj\Debug\WFSqlCsEx1.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WFSqlCsEx1\obj\Debug\WFSqlCsEx1.exe
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WFSqlCsEx1\obj\Debug\WFSqlCsEx1.pdb
